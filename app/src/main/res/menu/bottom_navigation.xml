@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/calendarNavigation"
+        android:icon="@drawable/calendar_icon"
+        android:title="Calendar" />
+
+    <item
+        android:id="@+id/dailyPlanNavigation"
+        android:icon="@drawable/daily_plan_icon"
+        android:title="Daily Plan" />
+
+    <item
+        android:id="@+id/accountNavigation"
+        android:icon="@drawable/account_icon"
+        android:title="Account" />
+
+</menu>

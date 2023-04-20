@@ -1,0 +1,3 @@
+admin@admin.com|admin|Admin123
+user@test.com|user123|User123
+zivan@dobro.rs|zivancic|Zivan123
